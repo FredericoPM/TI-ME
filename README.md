@@ -1,2 +1,2 @@
 # TI-me
-Aplicações para modernizar seu negocio
+Aplicações para modernizar seu negócio
